@@ -1,6 +1,6 @@
 import { c as commonjsGlobal, g as getDefaultExportFromNamespaceIfNotNamed, a as createCommonjsModule, b as getDefaultExportFromCjs } from './common/_commonjsHelpers-fdecda49.js';
 import { a as N3Parser, N as N3Writer, g as global } from './common/N3Writer-744d9ae7.js';
-import { p as process } from './common/process-2545f00a.js';
+import { p as process } from './common/process-726ef35e.js';
 import { b as browserPonyfill, a as crossFetch } from './common/browser-ponyfill-c9a58b8e.js';
 
 /*

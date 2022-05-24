@@ -203,7 +203,7 @@ var process = {
   nextTick: nextTick,
   title: title,
   browser: browser,
-  env: {"NODE_ENV":"production"},
+  env: {"NODE_ENV":"prod"},
   argv: argv,
   version: version,
   versions: versions,

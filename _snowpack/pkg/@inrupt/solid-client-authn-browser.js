@@ -1,6 +1,6 @@
 import { g as getDefaultExportFromNamespaceIfNotNamed, a as createCommonjsModule, c as commonjsGlobal } from '../common/_commonjsHelpers-fdecda49.js';
 import { b as browserPonyfill } from '../common/browser-ponyfill-c9a58b8e.js';
-import { p as process } from '../common/process-2545f00a.js';
+import { p as process } from '../common/process-726ef35e.js';
 
 var domain;
 
